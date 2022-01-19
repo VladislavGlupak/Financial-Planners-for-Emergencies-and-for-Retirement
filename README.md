@@ -54,15 +54,15 @@ For running API calls user has to provide:
 
 ### Determining the current value of a member’s cryptocurrency wallet.
 
-Current value of the holdings in BTC is $51001.20
-Current value of the holdings in ETH is $16812.77
-Current cryptocurrency wallet balance is $67813.97
+- Current value of the holdings in BTC is $51001.20
+- Current value of the holdings in ETH is $16812.77
+- Current cryptocurrency wallet balance is $67813.97
 
 ### Evaluate the Stock and Bond Holdings by Using the Alpaca SDK
 
-The current value of the stock portfolio (SPY) is $36800.5.
-The current value of the bond portfolio (AGG) is $23889.0.
-Total value of bonds and stocks is $60689.5.
+- The current value of the stock portfolio (SPY) is $36800.5.
+- The current value of the bond portfolio (AGG) is $23889.0.
+- Total value of bonds and stocks is $60689.5.
 
 ### Value of portfolio
 
