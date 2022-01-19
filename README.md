@@ -131,7 +131,7 @@ num_trading_days = 252 * 10
 The lower `95%` confidence outcome is  50921.35
 The upper `95%` confidence outcome is  437526.48
 
-### Create the Monte Carlo Simulation - 30 years
+### Will weighting the portfolio more heavily to stocks allow the credit union members to retire after only 10 years?
 
 Reducing the investment period from 30 years to 10 years, but at the same time increasing the share of shares to 80%, will not make it possible to retire earlier. 
 There is a 95% chance that an initial investment of $60689.5 in the portfolio over the next 10 years will end within in the range of $ 50921.35 and 
