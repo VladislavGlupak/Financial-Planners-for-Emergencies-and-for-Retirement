@@ -1,0 +1,40 @@
+    1  . code
+    2  git status
+    3  git add .
+    4  git commit -m "adding probability"
+    5  git push
+    6  git status
+    7  git add .
+    8  git status
+    9  git commit -m "Wrangling the Range"
+   10  git push
+   11  git status
+   12  git commit -m "Monte Carlo simulation"
+   13  git push
+   14  git status
+   15  git add .
+   16  git commit -m "Monte Carlo simulation"
+   17  git push
+   18  cd Module_5/Starter_Code/
+   19  git status
+   20  git add .
+   21  git commit -m "pushing challenge 5 files"
+   22  git push
+   23  git status
+   24  git add .
+   25  git commit -m "removing extra files"
+   26  git push
+   27  git status
+   28  git add .
+   29  git commit -m "small changing in script plus adding pics"
+   30  git push
+   31  git status
+   32  git status
+   33  git add .
+   34  git commit -m "modifying README"
+   35  git push
+   36  git status
+   37  git add .
+   38  git commit -m "modifying README last chapter"
+   39  git push
+   40  history 50 > history.txt
